@@ -1,0 +1,65 @@
+{
+ "signatures": [
+  {
+   "keyid": "82fe6a6e90606a2d132978dc1f9288f5c6574b6680ce12f50efc6e9283a731b7",
+   "sig": ""
+  }
+ ],
+ "signed": {
+  "_type": "root",
+  "consistent_snapshot": true,
+  "expires": "2027-06-29T12:12:09Z",
+  "keys": {
+   "82fe6a6e90606a2d132978dc1f9288f5c6574b6680ce12f50efc6e9283a731b7": {
+    "keytype": "ml-dsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIFMjALBglghkgBZQMEAxEDggUhABAsikPhpBj1TLEm1FO8B5EDx5DOIXkLF5Io\nYzMIM1DhwxbCruvIlMt6d2icLobE9mtjW7jRgzTz0xHuVWk1auDSaaEwu6H8xCdE\nlgeI07C5SIYxAL0FK1VGVetBFUeYw3Ri2lKSTqHRPrrLHLEEKVBEq4PeNqub96Li\nq3LrcEn81+IXNTao/sPeK69BgLVmcH0sduWrEEJneb3UK65iEQEY4IOmc+0Ik9JV\n6V3TEbEwwPI7AqAG5TEwB/R9veDWtV+sCCcSWLg8Fm8T0ZSRo9WUeXGp/+Y0cwbP\n7UArs+jU/lUqsFLwbO4JYUZ0L6X1ekoXQ3eMCCF5LwmtbHR864OBxxZpn5MFfvFA\n4ZIX7p1+MQ5obXHkEaOhm3rqDZPyCspDHLf/Qa/VGcwJBbMBzS10TFo5ONqsIsnt\nmWySm6X7fs6Lm75QNDl5HtF7E262pGgeN3j/zIfePHkwkPpuwzHzAnkpsxXdRRVj\naF6a+qJFoI52AMrxkhzG6vRSNuc1ZhUbaSy/XKrIdxWn6zrAlGaCOZsLghncQG5n\n5mzaNru/0nIXAx7Zgb1ceqM7KeZ2VKx4+IJ3Q9hlcckTTuIhDh2nsmCsZdqwN0sV\nsGN7ETF4T0FiA+Kw0m94QWhLGPXap+h1YFM4bDGOZ7M9oi+VNY++Ye52Rhur51hO\nOAPNnciceGoWHC62v1QGZlQD+fvnpJ9j7qC+syhWEj0YQCRBxmPqwJiRUUawmoDA\nYk7IHGsT+7ZC5fCi9q6qFGSJ0WOkK2PS20XH5kpDuGxdkFnNnvQ7NDadk3PpRbnO\n3tkMqG+pVQQzfGl7qrkw/QcpC06mQwiJ/myBIk6xVEEH1y99xGyL/fCHIcKbzwxl\noxD5cmQa8m518YEAt25kWUxQM8+VOqcbwou02MFfnPhrazrx19ieyd7Ls+nI8ON6\nVDTuAuyX+RXwb6T6dLdA3usA2ZEiE+wrglzcKny/qRc5JGgtEjm853WGAdd7vQim\nHp+HzQoVwTP59CnTUfxFx4FmNMZQOSXg0DhCtsTuusuhohM/oHuj7UVoZHvmAEUR\nhXjVnwbAYKEFJNaCZlNbXLOkiZPW+JIna9ZpO7mD/SCNBw/pgBLrDXr2cMPVtde/\nrYlVtjgZNj+l5LlHaZAiiwPcE8EAINxfZEGeNw7FAL/jSN6q4Re09alHscILu/mi\nS8kv/GKiwcvUiVIe4yn1qHS4LdKZoX1nedXIp73fVPqU3KRiJdsBbziHioqwzHxt\n6vuvVLdz1lBg4gWT7X9QBorExujJLGO1TAknUUb8b/F62ufxJGnNO0MVVenyBeGP\nJtBDClTwyMrSsQSvr9YTkAfRZeAG3m+yyGKVtChQHEsUOUNA34kq9+JvPZ8ZmRJD\nrgYxSPe/XEJygnRey7zPrG7VPuTocIk0tx/CiLxvwsUkg4sRWwfO1Dx+WYN2TVTX\nWLNBC3GMNk80JuWSsK5iJxAiAhsMbBrW2uG2gw7jO0gTd0lXxfMdux26kuBmJ5vj\nA1KleqRlba8AW9m1YA+K6GrBgubKdOe1OKl24ZoCTA2KGQBiBiWYM0IY0U8B+A9a\nNrmfhLTnCHRuiDHg+x/upiAPa2gCl20giCiFzk5CYf6KVrt0ezqjhHqW0C9+wLt/\nvwC3Wbv7Tm2CrGfYH0xV+WguMuA8MD2yV52yGCVHfGnw9AVJUVyq8IlXnq/x1txK\nyI9by/ThwzPW6KUzn9byOFrlcpat6aAmZVX6ibPkiC5AClyHpFk=\n-----END PUBLIC KEY-----\n"
+    },
+    "scheme": "ml-dsa-44/1",
+    "x-tuf-on-ci-keyowner": "@jku"
+   },
+   "ad6f621fbfb184b88e3f4bacb823701a829c768bdcc5ad0a584bc2ae6f149321": {
+    "keytype": "ml-dsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIFMjALBglghkgBZQMEAxEDggUhAF+T9bbRizGiZdUKnj3Hp98czCWJDQfkKKM5\n4X6Uc3jrtpx2NkOZH9U1T4+/MyH0PJqc9q38pzu+4kDPOzH5MIE0OZMl8AlvD2by\n7NvBJ+NQv2f6j1SRYrWaJTGYnTHD0QLvV4sK698OzJtFW8W4RlxffWZVK7tDyLIo\nqHSjp1uLOKQyr/y1B07/7RjnvO8lnpWOvosLCIffHM+izZ1jAAvrxumA5FkN17Fx\nSCN1/tFuyLDdYnOl4jUc9cH4W+chDovP5vTog7StWowMzZkzOrjAHJi1BpHOeZtd\nr3xKgTwbEJ23HYXp2DpCf10eAMMaR1fLfth0bdsufzhkVMhhYil0E5TW5xFh8Wp0\nxs0KXwfGC1Mo+9aBKiCE4zd7iWGhK0xorWxikStU3NKc9erdFaV+hIvntAubvNXm\nIbBz8DmiJluW395TecJbIsUb6Zk498cWYWcMywENCpyq0WWVb+StK/io2h31ERvs\n8igdF9p08zrqKIyYFFFjf+W+7fsXm9rSjq3tSNzYluoqRQ6vhBAZpFMQDawsHErv\nf6wwqf014h+/tzbhcOAbLVrExstYvhO9lHzXRnIZYS6d38Gq5xmKAHmSTMrrvJCo\nsUy7pEAdSVrl3y8nLl4hYWOopQMEx2GsTeBc+Ps0/cXgcU4Mam01weZsMUSaxSEX\nUrassMafxYyyKIiOttyvdN3Y0a5S+Z3TfyE463y8gDk/SjKSkhFMUd73Ji4BCTiq\n2WLMfv0chv/PouWNnNMKr4hguCBAy6qvtKk6GSK3HhtruAOLl1jfqcpYPHOkVO9z\nlisnYscjtaG/6MMSM0XcBDpEMH0ptzwp8I6R7Ntr57QeP+yv9EePaOO2B/Q/PHmm\nS5Vhziq+JxqvcpGq6UF0lBxTopyf2deMiq/aZ5MI5n82ttNbiAM6LTdudlGGK2vA\n1VG5vHnQRS6y0N1neHe0KR5UY5mxRcOysjwpNna2oVzKtmwkBc2wVqug9iduebZH\nRbAxs1PV4pPfQ7MGYd/bopabtYHn5W0sjQWdhhL3xFsBlY5LWkYlU7dAeg32be9W\n6/I8EStKAs2XNuKGDP0rLs5Gxt9Uwi7Zbaz5ViRb7byMbnaOjvjFbqmikSa88uuV\nqMtVirPBHvSSmBupxrS2ppXhE1uUe1Mz0phHRqJjgsrKXT/6M1sELR66eiUtuKiy\nC8+5gitX8b1Q8pE9n+E4YNU2WMNdaxnmP7BxyBN/JhX2dBgtSlUukDSs/1LXwSw2\nkgjGD6o7X+QdR91i1RSZ8U6aSiA0hcWeRSa0+j4MmjHA2GWaRxa0EpfSYXik/W4k\n9cpRg89uCc0q4RhMIDtSN4llrd2QBMd8FgGr+WHLjFg/42enBlXa71LuuNqH7v0T\nfc3kBF5jKsSz7q9CZZ5W11gQBSSScLepalDxxFktnfEF1pLgRHeWmJQX88DOi1Nc\nhv/c/GLumwElhqn3EzstV/qLrryaG0Desqoh7TsVE6cjbVt4IRiKncy4ckFFXwwb\nKIxbiKQILSuiYUaXRaKSiQOgiCjcPTQh229b1Z0Lr7s0c3Bs/kyqkJJT0MSNUOGj\nFH1s7ty3pZht+aQXh7RaK+6H4EJGia0gMaJRvhydYh2O+ZOJKPl53/NOfgBGvI3j\n40fg6nBurS8FfKkY3EBvAJ7Z8XXZ9CIfe8F5AkGpMhUz13J3kKlwXSsva/E4oTRt\nPEVZhxhZlzjDEpF8YcUcrrEOnrds2NAtgtZfxitPGhoJeqkAe1A=\n-----END PUBLIC KEY-----\n"
+    },
+    "scheme": "ml-dsa-44/1",
+    "x-tuf-on-ci-online-uri": "gcpkms:projects/python-tuf-kms/locations/global/keyRings/pqc-demo/cryptoKeys/mldsa44/cryptoKeyVersions/1"
+   }
+  },
+  "roles": {
+   "root": {
+    "keyids": [
+     "82fe6a6e90606a2d132978dc1f9288f5c6574b6680ce12f50efc6e9283a731b7"
+    ],
+    "threshold": 1
+   },
+   "snapshot": {
+    "keyids": [
+     "ad6f621fbfb184b88e3f4bacb823701a829c768bdcc5ad0a584bc2ae6f149321"
+    ],
+    "threshold": 1,
+    "x-tuf-on-ci-expiry-period": 365,
+    "x-tuf-on-ci-signing-period": 60
+   },
+   "targets": {
+    "keyids": [
+     "82fe6a6e90606a2d132978dc1f9288f5c6574b6680ce12f50efc6e9283a731b7"
+    ],
+    "threshold": 1
+   },
+   "timestamp": {
+    "keyids": [
+     "ad6f621fbfb184b88e3f4bacb823701a829c768bdcc5ad0a584bc2ae6f149321"
+    ],
+    "threshold": 1,
+    "x-tuf-on-ci-expiry-period": 2,
+    "x-tuf-on-ci-signing-period": 1
+   }
+  },
+  "spec_version": "1.0.31",
+  "version": 1,
+  "x-tuf-on-ci-expiry-period": 365,
+  "x-tuf-on-ci-signing-period": 60
+ }
+}
