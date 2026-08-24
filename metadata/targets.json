@@ -8,10 +8,21 @@
  "signed": {
   "_type": "targets",
   "delegations": {
-   "keys": {},
+   "keys": {
+    "231713ee57ceb263dbf2416469e85443227b270b2b32e867520fac5c1730ee2f": {
+     "keytype": "ml-dsa",
+     "keyval": {
+      "public": "-----BEGIN PUBLIC KEY-----\nMIIFMjALBglghkgBZQMEAxEDggUhAHzsI4bV1mkW8V6WZrfKqezs2Lq6A46LYaUP\neq24de4KxdajnYEBbR/C5tGzSvLpRxI5BpOfwoZmGzGJtEKhCOL98TpKaoUk0GtI\n1rVyCo5QdcSVLTXqP2BCfTX4zyuyFS00D8pDNFfc9npZm3tx8DhzZcZb3ZUkVq0z\nKv7ovd7Iwc0RF0tXJI0nfPFC4kejZAaSexXGDc6I1JI7+4PsVdjsE14y0WgQZ44x\nB41LoUOYn/VZF2x4rw2t928+o40ZMspZvZbZ1/83i8atCpdcmzfO76KDWfK/LF7O\nipYasnI+EZrpRVPIlsw/wgT4m0QNEGw7v3uX1StW5UJWfD8ivE6rz+xTteqlcpTw\nVkH3JiyLbjqMgtmwSxDap6C/0dWhZEMYk7SeewEvdKUXxFwrBf0virAedwgpjGiC\ntrteB9tJx6FcOOKS73cNZDiHVaPTZpx7+T3ZbTjkjOh7sdvTg1K7+5xuGkjE0lFS\nECTUTIB4jrUcm5yPzIcC2IOQb6qfSK9zBp27QPWe7N+X14E5lwNpYPcFqdsBwjd+\n4RCS/JNIK//NP9eNCWik6t/zCdCO6GAf4SFDWKABYchR95CZj8zeiYGgis+pQaFE\nOB5PLqnqMu5+qRX+5TXSDZLe/LSQhtVE09U3QxFwGvdeKBNg3zTzQsiAimIL3dgA\nQkEWXkwpFtuKAkjwBHhhl8H/S2DJRhLJZDZ2AtUEH9jKH7DqxqLl/ZOh7Z40CvK5\nRdqYV4slSvpUaCQ8nFNNd9yX4XXKqky90V4fo0v55xnVKCqwR9Q416WSxtVCt8Tm\nRTwSVDKx7YX/OxEXraGxCq/NU8+lNFzp0ZR0+tiVfiodZ/f7zme+AjbgA95qWMVB\nZbdkCvQAKNpLQ5LMFOn+WkiO4zJAM1M51YoD0GIguGOQ82pHUhWYDpiI5VQQXpHb\ngUZGThmn323l1NRRBMjAH/Mx/kKnSrO6fs/yPuJMOmbsTRMjZLG5pGCd7XeqPObN\nTTfYRazhOt8kilZUm1Fn00JwrqacEEadMrFEVbfio2v/3T8tpjQ4/taUHB8CXocg\n64UtOqZWGU8HtYi/gNRcfG36qQxl3oCgEUU6SD9w91UZyYjReYeSRuD8+NQ/FO5l\nnFmQHRZoLEQJAUUa78S0/oeYbrwWGkO77ZGwPpglN+S6l5SjawII4pajNGbJRZ2y\nYm8z1z43U0qPZ6uM7zNL0eKpqXHuS0+FOeNKhNCExgY0scdVjfC+0FmNDDfkODS0\ntCgcIzFFoXvhL+gzeH9/rsK+xYTe4lYaP7kMQhYkpK219VT5EtaK9alF3Tq54+6d\nYyJKQwt2xK4ToJrzrQy8aLzYIaiB8Nvj2Z5+8qhlqxCMVhr4ggxgQdMIQY5WXjKx\nW+N8wxN0JUuh+nSwTS4M6nLjmdi1n2UWwv+FIk3cqWjYjqbcvpMg9jLtBLHEhpjl\n9R8WIcwDx9J07V4aEc/Zk2rMCOMi71TKENwVUSOu48t8XJmEj2QqWwz2ClOoKv5k\nBzweBSAyQWoRHWcQwFYMk2mtV50VIUng5F/J2tSbNxrJ/uPZxNyR6+PuYUbsAWG9\ni377AQCXiaYIiKvtG0M7UfMvXSbW2DVzZU4WbltEJr1RzXruyye/WTMrJniPgmqA\nQxDdmecu9HLmfNl6LOjAqggU31CXHNIAwX2g8uE913brovxNMSja+AzWB4sJtTdc\nISAaqO2f/GkEcfTKcbO4f0M/SaxuQNyRX231dBbS1ffnvUA0d2s=\n-----END PUBLIC KEY-----\n"
+     },
+     "scheme": "ml-dsa-44/1",
+     "x-tuf-on-ci-keyowner": "@tkey-user"
+    }
+   },
    "roles": [
     {
-     "keyids": [],
+     "keyids": [
+      "231713ee57ceb263dbf2416469e85443227b270b2b32e867520fac5c1730ee2f"
+     ],
      "name": "tkey-user",
      "paths": [
       "tkey-user/*",
@@ -24,7 +35,7 @@
     }
    ]
   },
-  "expires": "2027-08-24T10:39:33Z",
+  "expires": "2027-08-24T10:43:52Z",
   "spec_version": "1.0.31",
   "targets": {
    "file1.txt": {
